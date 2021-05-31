@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @RiturajKumar-cyber
-- 👀 I’m interested in vyber security
-- 🌱 I’m currently pursuing b.tech CSE from lovely professional University
+- 👋 Hi, I’m @Rituraj Kumar
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently pursuing b.tech CSE from lovely professional University Punjab.
 
- -📫 you may contact me on my email rituraj847308@gmail.com
+ -📫 you may contact me on my email rituraj847308@gmail.com .
 
 <!---
 RiturajKumar-cyber/RiturajKumar-cyber is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
